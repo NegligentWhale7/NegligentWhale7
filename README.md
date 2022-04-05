@@ -1,4 +1,11 @@
-### Hi there 👋
+ ![General_Kenobi](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+
+ Me presento:
+ - Carlos Alam Flores Armas.
+ - Actualmente soy estudiante. 
+![Umaru](https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif)
+
+ 
 
 <!--
 **NegligentWhale7/NegligentWhale7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
