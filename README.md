@@ -1,8 +1,6 @@
  ![General_Kenobi](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
- Me presento:
- - Carlos Alam Flores Armas.
- - Actualmente soy estudiante. 
+I'm currently a student of game development.
  
 ![Umaru](https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif)
 
