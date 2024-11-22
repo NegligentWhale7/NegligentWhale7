@@ -1,8 +1,5 @@
- ![General_Kenobi](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
-
-I'm currently a student of game development.
- 
-![Umaru](https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif)
+# Hi, I'm Alam.
+I'm currently a student of game development; finishing my last year of college. 
 
  
 
