@@ -1,5 +1,6 @@
-# Hi, I'm Alam.
-I'm currently a student of game development; finishing my last year of college. 
+# Unity Programmer
+With experience in Unity Engine and C#.
+Currently learning Unreal and C++.
 
  
 
